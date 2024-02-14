@@ -5284,6 +5284,8 @@ MonoBehaviour:
       a muro Ref","value":{"$content":7,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Enemy
       Health Bar Logic Ref","value":{"$content":8,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Cornetta
+      Ref","value":{"$content":9,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 129301525}
@@ -5295,6 +5297,7 @@ MonoBehaviour:
     - {fileID: 1892542758}
     - {fileID: 7859838525616959003}
     - {fileID: 1607539342}
+    - {fileID: 500805424}
 --- !u!1 &1919114636
 GameObject:
   m_ObjectHideFlags: 0
@@ -6261,10 +6264,46 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 262192088873320831, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: m_Size.x
+      value: 16.234795
+      objectReference: {fileID: 0}
+    - target: {fileID: 262192088873320831, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: m_Size.y
+      value: 17.736305
+      objectReference: {fileID: 0}
+    - target: {fileID: 262192088873320831, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.12364578
+      objectReference: {fileID: 0}
+    - target: {fileID: 262192088873320831, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: m_Offset.y
+      value: -1.6977715
+      objectReference: {fileID: 0}
+    - target: {fileID: 3675642581238905266, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 65
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239455556400592469, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Sprite
+        Ref","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Distance
+        to slide in","value":{"$content":-25.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MISSION
+        CONTROL","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Tutorial
+        Logic","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8239455556400592469, guid: 38a51420143cfc542be7139515245fcf, type: 3}
+      propertyPath: _data._objectReferences.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8239455556400592469, guid: 38a51420143cfc542be7139515245fcf, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 8008526113922937222}
+      objectReference: {fileID: 42200556}
     - target: {fileID: 8239455556400592469, guid: 38a51420143cfc542be7139515245fcf, type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
@@ -6294,7 +6333,7 @@ MonoBehaviour:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Sprite
       Ref","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Distance
-      to slide in","value":{"$content":-20.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      to slide in","value":{"$content":-25.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"MISSION
       CONTROL","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Tutorial
@@ -6392,7 +6431,7 @@ Transform:
   m_GameObject: {fileID: 8008526113922937222}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 62, y: -7, z: 0}
+  m_LocalPosition: {x: 65, y: -7, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
