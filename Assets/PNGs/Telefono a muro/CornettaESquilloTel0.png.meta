@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 213945c5a25857e4ba37155be6d2e289
+guid: c99f64440bcd85e4e8e2b9addbd13d4f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,118 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SparoMainChar_0
+      name: Telefono a muro_ring_1
       rect:
         serializedVersion: 2
         x: 1
-        y: 1
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f13d64e77c456184eb8b2605ee10554a
-      internalID: -1595737636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_1
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 229c3e65106bf4a49a563658272c0cf5
-      internalID: 719593516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_2
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2118453bf2042f04eac82fe85182e50b
-      internalID: -1729097226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_3
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad8d035fdc5992b4cad2880d23907ffd
-      internalID: 1747802305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Idle
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 295f96a5870808945855e53a2d3c1684
-      internalID: -78068495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SparoMainChar_1
-      rect:
-        serializedVersion: 2
-        x: 11
         y: 4
-        width: 1
-        height: 1
+        width: 24
+        height: 24
       alignment: 8
       pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,29 +137,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c37817697030604fa10e851f3ff979b
-      internalID: 1480622312
+      spriteID: 29e980e5fdb3aaa4db6e29d289faff0a
+      internalID: 1420593156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SparoMainChar_2
+      name: Telefono a muro_ring_2
       rect:
         serializedVersion: 2
-        x: 10
-        y: 5
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 25
+        y: 4
+        width: 25
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea133ef9664cf184abb67aab07986969
-      internalID: 601977522
+      spriteID: f05030c0c03436f4d957c6ea74da6bb8
+      internalID: 386746305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornettaESquilloTel0_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 24
+        height: 25
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300f313c4f267845b6fb69ac8bef00b
+      internalID: 436537114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CornettaESquilloTel0_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 24
+        height: 24
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef196468b8c273141a65626b29b2c5d5
+      internalID: 2143008282
       vertices: []
       indices: 
       edges: []
@@ -280,13 +217,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MC_Fire_1: 719593516
-      MC_Fire_2: -1729097226
-      MC_Fire_3: 1747802305
-      MC_Idle: -78068495
-      SparoMainChar_0: -1595737636
-      SparoMainChar_1: 1480622312
-      SparoMainChar_2: 601977522
+      CornettaESquilloTel0_0: 436537114
+      CornettaESquilloTel0_1: 2143008282
+      Telefono a muro_ring_1: 1420593156
+      Telefono a muro_ring_2: 386746305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

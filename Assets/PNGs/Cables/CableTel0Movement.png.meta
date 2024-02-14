@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 213945c5a25857e4ba37155be6d2e289
+guid: 87a3f1b1f1b7792478a2ca277d80326a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,118 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SparoMainChar_0
+      name: CableTel0Movement_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 41
         y: 1
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f13d64e77c456184eb8b2605ee10554a
-      internalID: -1595737636
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_1
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 229c3e65106bf4a49a563658272c0cf5
-      internalID: 719593516
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_2
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2118453bf2042f04eac82fe85182e50b
-      internalID: -1729097226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Fire_3
-      rect:
-        serializedVersion: 2
-        x: 27
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad8d035fdc5992b4cad2880d23907ffd
-      internalID: 1747802305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: MC_Idle
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 295f96a5870808945855e53a2d3c1684
-      internalID: -78068495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SparoMainChar_1
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 4
-        width: 1
-        height: 1
+        width: 43
+        height: 8
       alignment: 8
       pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,29 +137,218 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c37817697030604fa10e851f3ff979b
-      internalID: 1480622312
+      spriteID: b6f2e593584ea5243b4e3342fcc1b75b
+      internalID: 1703421138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SparoMainChar_2
+      name: CableTel0Movement_1
       rect:
         serializedVersion: 2
-        x: 10
-        y: 5
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 123
+        y: 1
+        width: 45
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea133ef9664cf184abb67aab07986969
-      internalID: 601977522
+      spriteID: 8237af40c6f2e024e9b7eeff8e035bdd
+      internalID: -327818006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 44
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254b9f289c0f524fb5f51d6a7e1e00c
+      internalID: 384747724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 43
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a574c1bb1dab7448fc5a7920a831cb
+      internalID: 631517381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1
+        width: 44
+        height: 8
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1404e34a0f8cc4b8ca4fcc81b0b53b
+      internalID: 650852228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1
+        width: 43
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9e13755647b94da05807286e69508
+      internalID: 999731891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 44
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36627c4b928d16e4ca89307797c2468d
+      internalID: 558463307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_7
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 44
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86161cb18a9b58479e32fbc943d7e69
+      internalID: -1488211783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1
+        width: 43
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6073006aac807bf4292d47966b6f9cd2
+      internalID: -836162984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1
+        width: 84
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179893e248b9c8d428e339c919f51976
+      internalID: 394370346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CableTel0Movement_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1
+        width: 84
+        height: 7
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201375611ea12764a9001324b9404280
+      internalID: -1828098438
       vertices: []
       indices: 
       edges: []
@@ -280,13 +364,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MC_Fire_1: 719593516
-      MC_Fire_2: -1729097226
-      MC_Fire_3: 1747802305
-      MC_Idle: -78068495
-      SparoMainChar_0: -1595737636
-      SparoMainChar_1: 1480622312
-      SparoMainChar_2: 601977522
+      CableTel0Movement_0: 1703421138
+      CableTel0Movement_1: -327818006
+      CableTel0Movement_10: -1828098438
+      CableTel0Movement_2: 384747724
+      CableTel0Movement_3: 631517381
+      CableTel0Movement_4: 650852228
+      CableTel0Movement_5: 999731891
+      CableTel0Movement_6: 558463307
+      CableTel0Movement_7: -1488211783
+      CableTel0Movement_8: -836162984
+      CableTel0Movement_9: 394370346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
